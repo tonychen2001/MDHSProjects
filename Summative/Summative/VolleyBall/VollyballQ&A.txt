@@ -1,0 +1,16 @@
+01: The ___ volleyball technique is being demonstrated:Bump:VBallBump.jpg
+02: A(n) ___ is being demonstrated:Volley:VBallVolley.jpg
+03: The ___ volleyball hit is being demonstrated by the player in blue:Spike:VBallSpike.jpg
+04: A(n) ___ is being demonstrated:Serve:VBallServe.jpg
+05: How many players are allowed on the court for each team?:Six:VBallCourt.jpg
+06: What is the maximum number of hits per side:Three:VBallThree.jpg
+07: What is the maximum number of times a player can hit the ball in succession?:One:VBallOne.jpg
+08: Which body part is illegal to contact the ball with?:None:VBallFail.jpg
+09: A(n) ___ is being demonstrated by the players in black:Block:VBallBlock.png
+10: It is illegal to block a ___:Serve:VBallBlockF.jpg
+11: What volleyball technique is being demonstrated?:Pancake:VBallPancake.jpg
+12: What point scoring system is used for volleyball?:Rally Scoring:VBallPoint.jpeg
+13: How many points must a team win by, to win a set?:Two:VBallWin.png
+14: A player is only allowed to touch the ball twice in succession after a ___:Block:VBallTwice.jpg
+15: A pass using the forearms is known as a ___:Bump:VBallBump.jpg
+16: True or False? Your team rotates if your team loses the point when the opponent is serving:False:VBallServe.jpg
