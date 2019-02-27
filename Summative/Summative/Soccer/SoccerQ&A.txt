@@ -1,0 +1,16 @@
+01: A(n) ___ in, is given when the ball goes over the side lines:Throw:SoccerOutBounds.jpg
+02: Which position is allowed to touch the ball with their hands in play?:Goalie:SoccerPositions.jpg
+03: If an offensive player is fouled in the box, a ___ kick is given:Penalty:SoccerFoul.jpg
+04: Player number 7 is taking a ___ kick:Penalty:SoccerPenalty.jpg
+05: A ___ is used to start off a game:Kick Off:SoccerStart.jpg
+06: What protective equipment is needed?:Shin Guards:SoccerPlayer.jpg
+07: Which position stays back to help the goalie?:Defenders:SoccerDefence.jpeg
+08: Which position stays closest to the opponent's net?:Forwards:SoccerForward.jpg
+09: A(n) ___ is when a player other than the goalie touches the ball with their arm:Hand Ball:SoccerHandBall.jpg
+10: A(n) ___ kick is being demonstrated in the picture:Corner:SoccerCornerKick.jpg
+11: What is being demonstrated in the picture?:Free Kick:SoccerFreeKick.jpg
+12: A(n) ___ off is used to resume a game after a goal?:Kick:SoccerCelebration.jpg
+13: This would be an example of a(n) ___:Foul:SoccerFoul.jpg
+14: How many players are allowed on the field for each team?:Eleven:SoccerStart.jpg
+15: True of False? This is an off side:True:SoccerOffSide.png
+16: Another name for soccer shoes are ___:Cleats:SoccerCleats.jpg

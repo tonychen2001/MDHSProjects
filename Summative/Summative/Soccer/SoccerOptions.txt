@@ -1,0 +1,11 @@
+02:Defenders:Midfielders:Forwards:Goalie
+03:Throw In:Free Kick:Penalty:Kick Off
+05:Throw In:Free Kick:Penalty:Kick Off
+06:Helmet:Shin Guards:Gloves:Mouth Guard
+07:Defenders:Goalie:Forwards:Sweepers
+08:Defenders:Midfielders:Forwards:Goalie
+09:Foul:Tackle:Hand Ball:Header:Save
+11:Throw In:Free Kick:Penalty:Kick Off
+13:Foul:Tackle:Hand Ball:Header:Save
+14:Five:Twelve:Eleven:Eight
+16:Boots:Cleats:Spikes:Timbs
