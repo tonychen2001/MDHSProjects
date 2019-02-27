@@ -1,0 +1,11 @@
+01:Bump:Spike:Volley:Underhand
+03:Bump:Spike:Volley:Overhand
+05:Four:Five:Six:Seven
+06:One:Two:Three:Five
+07:One:Two:Three:Five
+08:Foot:Head:None:Chest
+11:Bump:Spike:Volley:Pancake
+12:Rally Scoring:Side Out Scoring:Speed Scoring:Hit Scoring
+13:One:Two:Three:Four
+14:Bump:Spike:Volley:Block
+15:Bump:Spike:Volley:Underhand
