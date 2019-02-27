@@ -1,0 +1,11 @@
+02:Four:Three:Two:Five
+03:Four:Six:Seven:Five
+04:Two:Three:One:Four
+06:Double Dribble:Travel:Drive:Foul
+07:Double Dribble:Travel:Drive:Foul
+08:Floater:Step Back:Cross Over:Layup
+09:Two:Three:One:Four
+12:Knee:Chest:Waist:Shoulder
+13:Pump Fake:Fake Out:Crossover:Step Back
+14:Fade Away:Fake Out:Crossover:Step Back
+16:Two:Three:One:Four
