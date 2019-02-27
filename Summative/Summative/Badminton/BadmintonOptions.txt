@@ -1,0 +1,11 @@
+01:Doubles:Singles:Mixed:Team Up
+02:Doubles:Singles:Mixed:Team Up
+03:One:Two:Three:Four
+05:Clear:Drive:Smash:Drop Shot
+07:Clear:Drive:Smash:Drop
+09:Birdie:Ball:Cone:Saucer
+10:One:Two:Three:Four
+11:10:20:21:25
+13:Straight:Overhand:Barely:Diagonally
+14:8-5:9-5:1-6:21-20
+16:Clear:Drive:Smash:Drop
