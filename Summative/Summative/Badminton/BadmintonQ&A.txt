@@ -1,0 +1,16 @@
+01: ___ is when there are 2 players on each team:Doubles:BadmintonDoubles.jpg
+02: ___ is when there is 1 player on each team:Singles:BadmintonSingles.jpg
+03: To win a game, a team has to win by ___ point(s):Two:BadmintonDoubles.jpg
+04: If the server's score is even, the server serves from the ___ service court:right:BadmintonSingle.jpg
+05: A hit downward, powerfully into the opponents court is a(n) ___:Smash:BadmintonSmash.jpg
+06: A shot hit high and close to the opposing teams endline is a(n) ___:Clear:BadmintonClear.jpg
+07: A(n) ___ shot, is a basic flat hit, directly over the net:Drive:BadmintonDrive.jpg
+08: A(n) ___ shot, is a hit that just clears the net and falls quickly into the opponent's court:Drop:BadmintonDrop.jpg
+09: The object hit back and fourth across the net is known as the ___:Birdie:BadmintonBirdie.jpg
+10: How many times can you contact the birdie on your side on the return?:One:BadmintonSingles.jpg
+11: How many points are required to win a game?:21:BadmintonSingles.jpg
+12: If the score is 9-4 for you, you serve from the ___ service court:Left:BadmintonSingle.jpg
+13: Players serve ___ across the net to their opponents:Diagonally:BadmintonServe.jpg
+14: The score could be ___, for the player serving:8-5:BadmintonRight.jpg
+15: True or False? You serve and the birdie lands at point A. This is a legal serve:True:BadmintonLegal.jpg
+16: If your opponent is very far from the net, you should go for the ___ shot:Drop:BadmintonDropShot.jpg
