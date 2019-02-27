@@ -1,0 +1,16 @@
+01: Illegal personal contact with an opponent will result in a(n)___:Foul:BBallFoul.jpg
+02: How many points is a half court shot worth?:three:BBallHalfCourt.jpg
+03: How many players are allowed on the court for each team?:Five:BBallCourt.jpg
+04: A free throw is worth ___ point(s):One:BBallFreeThrow.jpg
+05: When you get fouled in the act of shooting, you go to the ___ throw line:free:BBallShotFoul.jpg
+06: A(n) ___ is when the ball handler takes three or more steps without dribbling:Travel:BBallTravel.jpg
+07: Which violation occurs when a player stops their dribble and dribbles again?:Double Dribble:BBallTravel.jpg
+08: What basketball move is the player in blue demonstrating?:Layup:BBallLayup.jpg
+09: How many points is this shot worth?:Three:BBall3Point.jpg
+10: True or False? This block is legal:True:BBallLegal.jpg
+11: To take possession of the ball after a missed shot is a ___:Rebound:BBallRebound.jpg
+12: When dribbling a basketball, the ball should bounce no higher than your ___:Waist:BBallDribbling.jpg
+13: A(n) ___ is faking a shot:Pump Fake:BBallPumpFake.jpg
+14: A popular move to get past your opponent is the ___:Crossover:BBallCrossover.jpg
+15: A ___ is used to free your teammate:Screen:BBallScreen.png
+16: How many points is this shot worth?:Two:BBallLayup.jpg
